@@ -13,6 +13,6 @@ class Student
   end
 
   def self.creat_table
-
+    
   end
 end
